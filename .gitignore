@@ -5,4 +5,5 @@ __pycache__/
 *.pickle
 insta_scrapy
 modeling/asset/*
-modeling/
+modeling/gmaps_api.pkl
+modeling/send_url.pickle
